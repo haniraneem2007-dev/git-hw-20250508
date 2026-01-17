@@ -1,2 +1,1 @@
-# git-hw-20250508
-
+print("hello world")
